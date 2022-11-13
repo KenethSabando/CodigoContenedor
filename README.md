@@ -3,8 +3,9 @@ La identificación de contenedores se efectúa mediante una combinación alfanum
 
 Informacion: https://www.monografias.com/trabajos96/comprobacion-codificacion-contenedores/comprobacion-codificacion-contenedores
 
-# Estructura
+[![ESQUEMA-CONTENEDOR-2.jpg](https://i.postimg.cc/mkWr4kxR/ESQUEMA-CONTENEDOR-2.jpg)](https://postimg.cc/0MZvd82H)
 
+# Estructura Codigo Propietario, Codigo Serie, Digito de Control
 Ejemplo: MSCU7512387
 - Las primeras tres letras identifican al propietario y son asignadas a las compañías.
 -  La cuarta letra toma los siguientes valores:
@@ -13,9 +14,3 @@ Ejemplo: MSCU7512387
     - Z para chasis o trailers de transporte vial.
 - 6 dígitos numéricos 
 - El ultimo dígito verificador para asegurar la correcta relación con los 10 anteriores.
-
-# Tabla de asignación de valores numéricos al alfabeto
-
-| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 34 | 35 | 36 | 37 | 38 |
